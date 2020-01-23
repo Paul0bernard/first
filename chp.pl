@@ -14,3 +14,5 @@ foreach my $aux ((),@list){
   print("Elemneto retirado: ".$aux."\n");
 }
 print("\n".@list."\n");
+
+#################
