@@ -5,6 +5,7 @@ import csv,sqlite3,pandas
 
 
 ch = 'AV2ZAVZMSXGEN20H'
+#teste alteracao
 
 pd.set_option('display.max_rows',None)
 tms = TimeSeries(key=ch, output_format='pandas')
